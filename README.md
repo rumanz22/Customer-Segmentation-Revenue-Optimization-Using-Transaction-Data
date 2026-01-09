@@ -1,0 +1,2 @@
+# Customer-Segmentation-Revenue-Optimization-Using-Transaction-Data
+I analyzed e-commerce transaction data to segment customers by purchasing behavior and revenue contribution. The analysis revealed that high-frequency buyers generate most revenue, leading to a strategy focused on converting regular customers into high-value customers through targeted retention marketing and smarter budget allocation.
